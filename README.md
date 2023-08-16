@@ -1,4 +1,4 @@
-## Olá! Prazer, Wendel Domingues 🤙🏻
+## Prazer! Me chamo Wendel Domingues 🤙🏻
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/#)
