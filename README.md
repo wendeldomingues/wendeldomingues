@@ -1,24 +1,5 @@
 <h2 align="center">👋 Prazer! Eu sou o Wendel Domingues</h2>
 
-<h3 align="center">
-Backend Engineer | Python | FastAPI | REST APIs | PostgreSQL | Docker | AWS
-</h3>
-
-<p align="center">
-  <a href="https://youtube.com/@WendelDominguesDev" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/wendeldomingues" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/wendevdomingues" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/wendel-domingues-8192a2220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 Sobre Mim  
@@ -75,6 +56,21 @@ Gosto de criar sistemas bem estruturados, fáceis de manter e preparados para cr
 - ▶️ **YouTube:** [@WendelDominguesDev](https://youtube.com/@WendelDominguesDev)  
 - 📷 **Instagram:** [@wendeldomingues](https://instagram.com/wendeldomingues)  
 - ✖️ **X (Twitter):** [@wendevdomingues](https://x.com/wendevdomingues)  
+
+<p>
+  <a href="https://www.linkedin.com/in/wendel-domingues-8192a2220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@WendelDominguesDev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/wendeldomingues" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/wendevdomingues" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
 
