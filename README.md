@@ -1,7 +1,5 @@
 <h2 align="center">👋 Prazer! Eu sou o Wendel Domingues</h2>
 
----
-
 ## 🚀 Sobre Mim  
 
 Sou desenvolvedor **Back-End** com foco em construção de APIs, automação de processos e integração de sistemas utilizando Python.
